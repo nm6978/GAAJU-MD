@@ -46,7 +46,7 @@ Click the button below to fork the Mega Md repository to your GitHub account:
 ---
 
 
-### Step 3: Set Environment Variables.
+### Step 2: Set Environment Variables.
 
 
 **Note:** Set these environment variables in .env file 
@@ -105,7 +105,7 @@ Click the button below to fork the Mega Md repository to your GitHub account:
 1. [Sign Up on Replit](https://repl.it) if you haven’t already.
 2. Click the button below to deploy using Replit:
    <br>
-   <a href='https://repl.it/github/GlobalTechInfo/MEGA-MD' target="_blank">
+   <a href='https://repl.it/github/Xchristech2/GAAJU-MD' target="_blank">
       <img alt='Deploy In Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
 
