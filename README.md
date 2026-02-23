@@ -39,8 +39,6 @@ Click the button below to fork the Mega Md repository to your GitHub account:
 
 ---
 
-### Step 2: Get Pair Code
-
 
   </a>
 </div>
